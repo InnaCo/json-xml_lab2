@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<supermercados>
+   <Mercadona>
+      <direccion>San Fernando 9</direccion>
+      <geolocalizacion>40.26'28.8348N, 3.31'54.5736W</geolocalizacion>
+      <codigoPostal>28850</codigoPostal>
+      <provincia>Madrid</provincia>
+      <productos>
+         <productoUno>Rucula</productoUno>  
+         <origen>Espana</origen>
+         <precio>0.98</precio>
+         <cantidad>250</cantidad>
+         <unidadMedida>gramos</unidadMedida>
+         <unidades>2</unidades>
+         <periodoVigencia>13/04/2022</periodoVigencia>
+         <tieneOferta>false</tieneOferta>
+         <habitual>true</habitual>       
+      </productos>
+      <productos>
+         <productoDos>Queso</productoDos>  
+         <origen>Espana</origen>
+         <precio>5.70</precio>
+         <cantidad>500</cantidad>
+         <unidadMedida>gramos</unidadMedida>
+         <unidades>1</unidades>
+         <periodoVigencia>23/06/2022</periodoVigencia>
+         <tieneOferta>true</tieneOferta>
+         <habitual>true</habitual>
+      </productos>
+      <productos>
+         <productoTres>Patatas</productoTres>  
+         <origen>Espana</origen>
+         <precio>4.99</precio>
+         <cantidad>3</cantidad>
+         <unidadMedida>kilogramos</unidadMedida>
+         <unidades>1</unidades>
+         <periodoVigencia>20/01/2022</periodoVigencia>
+         <tieneOferta>true</tieneOferta>
+         <habitual>false</habitual>
+      </productos> 
+   </Mercadona>
+
+   <Lidl>
+   <direccion>Calle Peru 23</direccion>
+      <geolocalizacion>40.28'18.8393N, 3.35'95.5705W</geolocalizacion>
+      <codigoPostal>28856</codigoPostal>
+      <provincia>Madrid</provincia>
+      <productos>
+         <productoUno>Tomate</productoUno>  
+         <origen>Espana</origen>
+         <precio>2.40</precio>
+         <cantidad>2</cantidad>
+         <unidadMedida>kilogramos</unidadMedida>
+         <unidades>1.5</unidades>
+         <periodoVigencia>16/04/2022</periodoVigencia>
+         <tieneOferta>false</tieneOferta>
+         <habitual>false</habitual>       
+      </productos>
+      <productos>
+         <productoDos>Marmelada</productoDos>  
+         <origen>Espana</origen>
+         <precio>2.25</precio>
+         <cantidad>370</cantidad>
+         <unidadMedida>gramos</unidadMedida>
+         <unidades>3</unidades>
+         <periodoVigencia>29/08/2022</periodoVigencia>
+         <tieneOferta>true</tieneOferta>
+         <habitual>false</habitual>
+      </productos>
+      <productos>
+         <productoTres>Alubias</productoTres>  
+         <origen>Espana</origen>
+         <precio>0.90</precio>
+         <cantidad>500</cantidad>
+         <unidadMedida>gramos</unidadMedida>
+         <unidades>5</unidades>
+         <periodoVigencia>03/09/2022</periodoVigencia>
+         <tieneOferta>false</tieneOferta>
+         <habitual>false</habitual>
+      </productos> 
+   </Lidl>
+</supermercados>
