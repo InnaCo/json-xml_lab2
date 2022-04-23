@@ -1,0 +1,100 @@
+{
+    "supermercados": [
+        {
+            "Mercadona": [
+                {
+                    "direccion": "San Fernando 9",
+                    "geolocalizacion":
+                        ["40.26'28.8348N", 
+                        "3.31'54.5736W"],
+                    "codigoPostal": 28850,
+                    "provincia": "Madrid",
+                    "productos": [
+                        {
+                            "productoUno": "Rucula",
+                            "origen": "Espana",
+                            "precio": 0.98,
+                            "cantidad": 250,
+                            "unidadMedida": "gramos",                            
+                            "unidades": 2,
+                            "periodoVigencia": "13/04/2022",
+                            "tieneOferta": false,
+                            "habitual": true
+                        },
+                        {
+                            "productoDos": "Queso",
+                            "origen": "Espana",
+                            "precio": 5.70,
+                            "cantidad": 500,
+                            "unidadMedida": "gramos",                            
+                            "unidades": 1,
+                            "periodoVigencia": "23/06/2022",
+                            "tieneOferta": true,
+                            "habitual": true
+
+                        },
+                        {
+                            "productoTres": "Patatas",
+                            "origen": "Espana",
+                            "precio": 4.99,
+                            "cantidad": 3,
+                            "unidadMedida": "kilogramos",                            
+                            "unidades": 1,
+                            "periodoVigencia": "20/01/2022",
+                            "tieneOferta": true,
+                            "habitual": false 
+                        }
+                    ]
+
+                }
+            ],
+            "Lidl":[
+                {
+                    "direccion": "Calle Peru 23",
+                    "geolocalizacion":
+                     ["40.28'18.8393N", 
+                        "3.35'95.5705W"],
+                    "codigoPostal": 28856,
+                    "provincia": "Madrid",
+                    "productos": [
+                        {
+                            "productoUno": "Tomate",
+                            "origen": "Espana",
+                            "precio": 2.40,
+                            "cantidad": 1,
+                            "unidadMedida": "kilogramos",                            
+                            "unidades": 1.5,
+                            "periodoVigencia": "16/04/2022",
+                            "tieneOferta": false,
+                            "habitual": false
+                        },
+                        {
+                            "productoDos": "Marmelada",
+                            "origen": "Espana",
+                            "precio": 2.25,
+                            "cantidad": 370,
+                            "unidadMedida": "gramos",                            
+                            "unidades": 3,
+                            "periodoVigencia": "29/08/2022",
+                            "tieneOferta": true,
+                            "habitual": false   
+                          },
+                          {
+                            "productoTres": "Alubias",
+                            "origen": "Espana",
+                            "precio": 0.90,
+                            "cantidad": 500,
+                            "unidadMedida": "gramos",                            
+                            "unidades": 5,
+                            "periodoVigencia": "03/09/2022",
+                            "tieneOferta": false,
+                            "habitual": false 
+                          }  
+                                    ]
+                                
+                                
+                                }
+            ]
+        }
+    ]
+}
